@@ -1,0 +1,1612 @@
+
+<!DOCTYPE html>
+<html class='v2' dir='ltr' lang='en'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3566091532-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://annesfood.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://annesfood.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Anne&#39;s Food - Atom" href="http://annesfood.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Anne&#39;s Food - RSS" href="http://annesfood.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Anne&#39;s Food - Atom" href="https://www.blogger.com/feeds/8814165/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/18224478760304481724" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='http://annesfood.blogspot.com/' property='og:url'/>
+<meta content='Anne&#39;s Food' property='og:title'/>
+<meta content='Cooking from my Swedish kitchen' property='og:description'/>
+<title>Anne's Food</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Awesome Inc.
+Designer: Tina Chen
+URL:      tinachen.org
+----------------------------------------------- */
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 13px 'Trebuchet MS', Trebuchet, sans-serif;
+color: #636363;
+background: #ededed url(//themes.googleusercontent.com/image?id=0BwVBOzw_-hbMNTQ3ODdjYmYtM2Q1Mi00MjBiLTlkNjgtZjIxMGMyYWVjYmYz) repeat scroll top center /* Credit: Ollustrator (http://www.istockphoto.com/googleimages.php?id=9505737&platform=blogger) */;
+}
+html body .content-outer {
+min-width: 0;
+max-width: 100%;
+width: 100%;
+}
+a:link {
+text-decoration: none;
+color: #ff42c4;
+}
+a:visited {
+text-decoration: none;
+color: #636363;
+}
+a:hover {
+text-decoration: underline;
+color: #359dcc;
+}
+.body-fauxcolumn-outer .cap-top {
+position: absolute;
+z-index: 1;
+height: 276px;
+width: 100%;
+background: transparent none repeat-x scroll top left;
+_background-image: none;
+}
+/* Columns
+----------------------------------------------- */
+.content-inner {
+padding: 0;
+}
+.header-inner .section {
+margin: 0 16px;
+}
+.tabs-inner .section {
+margin: 0 16px;
+}
+.main-inner {
+padding-top: 30px;
+}
+.main-inner .column-center-inner,
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+padding: 0 5px;
+}
+*+html body .main-inner .column-center-inner {
+margin-top: -30px;
+}
+#layout .main-inner .column-center-inner {
+margin-top: 0;
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+margin: 0 0 0 0;
+background: transparent none repeat scroll 0 0;
+}
+.Header h1 {
+font: normal bold 40px 'Trebuchet MS', Trebuchet, sans-serif;
+color: #ff00af;
+text-shadow: 0 0 -1px #000000;
+}
+.Header h1 a {
+color: #ff00af;
+}
+.Header .description {
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #424242;
+}
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 0;
+padding-right: 0;
+margin-bottom: 0;
+}
+.header-inner .Header .titlewrapper {
+padding-top: 22px;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-outer {
+overflow: hidden;
+position: relative;
+background: #e9edec url(http://www.blogblog.com/1kt/awesomeinc/tabs_gradient_light.png) repeat scroll 0 0;
+}
+#layout .tabs-outer {
+overflow: visible;
+}
+.tabs-cap-top, .tabs-cap-bottom {
+position: absolute;
+width: 100%;
+border-top: 1px solid #989898;
+}
+.tabs-cap-bottom {
+bottom: 0;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+margin: 0;
+padding: .6em 1.5em;
+font: normal bold 14px 'Trebuchet MS', Trebuchet, sans-serif;
+color: #ff00af;
+border-top: 1px solid #989898;
+border-bottom: 1px solid #989898;
+border-left: 1px solid #989898;
+height: 16px;
+line-height: 16px;
+}
+.tabs-inner .widget li:last-child a {
+border-right: 1px solid #989898;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+background: #656565 url(http://www.blogblog.com/1kt/awesomeinc/tabs_gradient_light.png) repeat-x scroll 0 -100px;
+color: #ffffff;
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: normal bold 14px 'Trebuchet MS', Trebuchet, sans-serif;
+color: #ff00af;
+}
+/* Widgets
+----------------------------------------------- */
+.main-inner .section {
+margin: 0 27px;
+padding: 0;
+}
+.main-inner .column-left-outer,
+.main-inner .column-right-outer {
+margin-top: 0;
+}
+#layout .main-inner .column-left-outer,
+#layout .main-inner .column-right-outer {
+margin-top: 0;
+}
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+background: transparent none repeat 0 0;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+#layout .main-inner .column-left-inner,
+#layout .main-inner .column-right-inner {
+margin-top: 0;
+}
+.sidebar .widget {
+font: normal normal 14px 'Trebuchet MS', Trebuchet, sans-serif;
+color: #636363;
+}
+.sidebar .widget a:link {
+color: #cc359d;
+}
+.sidebar .widget a:visited {
+color: #636363;
+}
+.sidebar .widget a:hover {
+color: #359dcc;
+}
+.sidebar .widget h2 {
+text-shadow: 0 0 -1px #000000;
+}
+.main-inner .widget {
+background-color: #ffffff;
+border: 1px solid #ededed;
+padding: 0 15px 15px;
+margin: 20px -16px;
+-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-goog-ms-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+.main-inner .widget h2 {
+margin: 0 -15px;
+padding: .6em 15px .5em;
+border-bottom: 1px solid transparent;
+}
+.footer-inner .widget h2 {
+padding: 0 0 .4em;
+border-bottom: 1px solid transparent;
+}
+.main-inner .widget h2 + div, .footer-inner .widget h2 + div {
+border-top: 1px solid #ededed;
+padding-top: 8px;
+}
+.main-inner .widget .widget-content {
+margin: 0 -15px;
+padding: 7px 15px 0;
+}
+.main-inner .widget ul, .main-inner .widget #ArchiveList ul.flat {
+margin: -8px -15px 0;
+padding: 0;
+list-style: none;
+}
+.main-inner .widget #ArchiveList {
+margin: -8px 0 0;
+}
+.main-inner .widget ul li, .main-inner .widget #ArchiveList ul.flat li {
+padding: .5em 15px;
+text-indent: 0;
+color: #656565;
+border-top: 1px solid #ededed;
+border-bottom: 1px solid transparent;
+}
+.main-inner .widget #ArchiveList ul li {
+padding-top: .25em;
+padding-bottom: .25em;
+}
+.main-inner .widget ul li:first-child, .main-inner .widget #ArchiveList ul.flat li:first-child {
+border-top: none;
+}
+.main-inner .widget ul li:last-child, .main-inner .widget #ArchiveList ul.flat li:last-child {
+border-bottom: none;
+}
+.post-body {
+position: relative;
+}
+.main-inner .widget .post-body ul {
+padding: 0 2.5em;
+margin: .5em 0;
+list-style: disc;
+}
+.main-inner .widget .post-body ul li {
+padding: 0.25em 0;
+margin-bottom: .25em;
+color: #636363;
+border: none;
+}
+.footer-inner .widget ul {
+padding: 0;
+list-style: none;
+}
+.widget .zippy {
+color: #656565;
+}
+/* Posts
+----------------------------------------------- */
+body .main-inner .Blog {
+padding: 0;
+margin-bottom: 1em;
+background-color: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+.main-inner .section:last-child .Blog:last-child {
+padding: 0;
+margin-bottom: 1em;
+}
+.main-inner .widget h2.date-header {
+margin: 0 -15px 1px;
+padding: 0 0 0 0;
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #359dcc;
+background: transparent none no-repeat scroll top left;
+border-top: 0 solid #ffffff;
+border-bottom: 1px solid transparent;
+-moz-border-radius-topleft: 0;
+-moz-border-radius-topright: 0;
+-webkit-border-top-left-radius: 0;
+-webkit-border-top-right-radius: 0;
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+position: static;
+bottom: 100%;
+right: 15px;
+text-shadow: 0 0 -1px #000000;
+}
+.main-inner .widget h2.date-header span {
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+display: block;
+padding: .5em 15px;
+border-left: 0 solid #ffffff;
+border-right: 0 solid #ffffff;
+}
+.date-outer {
+position: relative;
+margin: 30px 0 20px;
+padding: 0 15px;
+background-color: #ffffff;
+border: 1px solid #ededed;
+-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-goog-ms-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+.date-outer:first-child {
+margin-top: 0;
+}
+.date-outer:last-child {
+margin-bottom: 20px;
+-moz-border-radius-bottomleft: 0;
+-moz-border-radius-bottomright: 0;
+-webkit-border-bottom-left-radius: 0;
+-webkit-border-bottom-right-radius: 0;
+-goog-ms-border-bottom-left-radius: 0;
+-goog-ms-border-bottom-right-radius: 0;
+border-bottom-left-radius: 0;
+border-bottom-right-radius: 0;
+}
+.date-posts {
+margin: 0 -15px;
+padding: 0 15px;
+clear: both;
+}
+.post-outer, .inline-ad {
+border-top: 1px solid #ededed;
+margin: 0 -15px;
+padding: 15px 15px;
+}
+.post-outer {
+padding-bottom: 10px;
+}
+.post-outer:first-child {
+padding-top: 0;
+border-top: none;
+}
+.post-outer:last-child, .inline-ad:last-child {
+border-bottom: none;
+}
+.post-body {
+position: relative;
+}
+.post-body img {
+padding: 8px;
+background: transparent;
+border: 1px solid transparent;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+border-radius: 0;
+}
+h3.post-title, h4 {
+font: normal bold 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ff00af;
+}
+h3.post-title a {
+font: normal bold 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ff00af;
+}
+h3.post-title a:hover {
+color: #359dcc;
+text-decoration: underline;
+}
+.post-header {
+margin: 0 0 1em;
+}
+.post-body {
+line-height: 1.4;
+}
+.post-outer h2 {
+color: #636363;
+}
+.post-footer {
+margin: 1.5em 0 0;
+}
+#blog-pager {
+padding: 15px;
+font-size: 120%;
+background-color: #ffffff;
+border: 1px solid #ededed;
+-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-goog-ms-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+-moz-border-radius-topleft: 0;
+-moz-border-radius-topright: 0;
+-webkit-border-top-left-radius: 0;
+-webkit-border-top-right-radius: 0;
+-goog-ms-border-top-left-radius: 0;
+-goog-ms-border-top-right-radius: 0;
+border-top-left-radius: 0;
+border-top-right-radius-topright: 0;
+margin-top: 1em;
+}
+.blog-feeds, .post-feeds {
+margin: 1em 0;
+text-align: center;
+color: #424242;
+}
+.blog-feeds a, .post-feeds a {
+color: #cc359d;
+}
+.blog-feeds a:visited, .post-feeds a:visited {
+color: #636363;
+}
+.blog-feeds a:hover, .post-feeds a:hover {
+color: #359dcc;
+}
+.post-outer .comments {
+margin-top: 2em;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #989898;
+border-bottom: 1px solid #989898;
+}
+.comments .continue {
+border-top: 2px solid #989898;
+}
+/* Footer
+----------------------------------------------- */
+.footer-outer {
+margin: -20px 0 -1px;
+padding: 20px 0 0;
+color: #424242;
+overflow: hidden;
+}
+.footer-fauxborder-left {
+border-top: 1px solid #ededed;
+background: #ffffff none repeat scroll 0 0;
+-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-goog-ms-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+margin: 0 -20px;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile {
+background-size: auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+*+html body.mobile .main-inner .column-center-inner {
+margin-top: 0;
+}
+.mobile .main-inner .widget {
+padding: 0 0 15px;
+}
+.mobile .main-inner .widget h2 + div,
+.mobile .footer-inner .widget h2 + div {
+border-top: none;
+padding-top: 0;
+}
+.mobile .footer-inner .widget h2 {
+padding: 0.5em 0;
+border-bottom: none;
+}
+.mobile .main-inner .widget .widget-content {
+margin: 0;
+padding: 7px 0 0;
+}
+.mobile .main-inner .widget ul,
+.mobile .main-inner .widget #ArchiveList ul.flat {
+margin: 0 -15px 0;
+}
+.mobile .main-inner .widget h2.date-header {
+right: 0;
+}
+.mobile .date-header span {
+padding: 0.4em 0;
+}
+.mobile .date-outer:first-child {
+margin-bottom: 0;
+border: 1px solid #ededed;
+-moz-border-radius-topleft: 0;
+-moz-border-radius-topright: 0;
+-webkit-border-top-left-radius: 0;
+-webkit-border-top-right-radius: 0;
+-goog-ms-border-top-left-radius: 0;
+-goog-ms-border-top-right-radius: 0;
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+}
+.mobile .date-outer {
+border-color: #ededed;
+border-width: 0 1px 1px;
+}
+.mobile .date-outer:last-child {
+margin-bottom: 0;
+}
+.mobile .main-inner {
+padding: 0;
+}
+.mobile .header-inner .section {
+margin: 0;
+}
+.mobile .post-outer, .mobile .inline-ad {
+padding: 5px 0;
+}
+.mobile .tabs-inner .section {
+margin: 0 10px;
+}
+.mobile .main-inner .widget h2 {
+margin: 0;
+padding: 0;
+}
+.mobile .main-inner .widget h2.date-header span {
+padding: 0;
+}
+.mobile .main-inner .widget .widget-content {
+margin: 0;
+padding: 7px 0 0;
+}
+.mobile #blog-pager {
+border: 1px solid transparent;
+background: #ffffff none repeat scroll 0 0;
+}
+.mobile .main-inner .column-left-inner,
+.mobile .main-inner .column-right-inner {
+background: transparent none repeat 0 0;
+-moz-box-shadow: none;
+-webkit-box-shadow: none;
+-goog-ms-box-shadow: none;
+box-shadow: none;
+}
+.mobile .date-posts {
+margin: 0;
+padding: 0;
+}
+.mobile .footer-fauxborder-left {
+margin: 0;
+border-top: inherit;
+}
+.mobile .main-inner .section:last-child .Blog:last-child {
+margin-bottom: 0;
+}
+.mobile-index-contents {
+color: #636363;
+}
+.mobile .mobile-link-button {
+background: #ff42c4 url(http://www.blogblog.com/1kt/awesomeinc/tabs_gradient_light.png) repeat scroll 0 0;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background: transparent;
+border-top: 1px solid;
+border-color: #989898;
+color: #ff00af;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #989898;
+}
+#header-inner img {
+margin-left: auto;
+margin-right: auto;
+}
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 1200px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 1200px;
+max-width: 1200px;
+_width: 1200px;
+}
+.main-inner .columns {
+padding-left: 300px;
+padding-right: 300px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 300px;
+right: 300px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("300px") -
+parseInt("300px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 300px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 300px;
+}
+.main-inner .column-left-outer {
+width: 300px;
+right: 100%;
+margin-left: -300px;
+}
+.main-inner .column-right-outer {
+width: 300px;
+margin-right: -300px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+body#layout div.add_widget {
+padding: 8px;
+}
+body#layout div.add_widget a {
+margin-left: 32px;
+}
+--></style>
+<style>
+    body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMNTQ3ODdjYmYtM2Q1Mi00MjBiLTlkNjgtZjIxMGMyYWVjYmYz);}
+    
+@media (max-width: 200px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMNTQ3ODdjYmYtM2Q1Mi00MjBiLTlkNjgtZjIxMGMyYWVjYmYz&options=w200);}}
+@media (max-width: 400px) and (min-width: 201px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMNTQ3ODdjYmYtM2Q1Mi00MjBiLTlkNjgtZjIxMGMyYWVjYmYz&options=w400);}}
+@media (max-width: 800px) and (min-width: 401px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMNTQ3ODdjYmYtM2Q1Mi00MjBiLTlkNjgtZjIxMGMyYWVjYmYz&options=w800);}}
+@media (max-width: 1200px) and (min-width: 801px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMNTQ3ODdjYmYtM2Q1Mi00MjBiLTlkNjgtZjIxMGMyYWVjYmYz&options=w1200);}}
+/* Last tag covers anything over one higher than the previous max-size cap. */
+@media (min-width: 1201px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMNTQ3ODdjYmYtM2Q1Mi00MjBiLTlkNjgtZjIxMGMyYWVjYmYz&options=w1600);}}
+  </style>
+<script type='text/javascript'>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-2317265-1', 'auto', 'blogger');
+        ga('blogger.send', 'pageview');
+      </script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8814165&amp;zx=f2731bdc-9ccc-45fa-baac-73d5fd1321ea' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8814165&amp;zx=f2731bdc-9ccc-45fa-baac-73d5fd1321ea' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+</head>
+<body class='loading variant-light'>
+<div class='navbar no-items section' id='navbar' name='Navbar'>
+</div>
+<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<meta content='Anne&#39;s Food' itemprop='name'/>
+</div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header' name='Header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='http://annesfood.blogspot.com/' style='display: block'>
+<img alt='Anne&#39;s Food' height='250px; ' id='Header1_headerimg' src='http://2.bp.blogspot.com/-q-QvrmfOU2A/UmOqmSVXx5I/AAAAAAAABJA/RR4exABIGuQ/s1600/header03.jpg' style='display: block' width='940px; '/>
+</a>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs section' id='crosscol' name='Cross-Column'><div class='widget PageList' data-version='1' id='PageList1'>
+<h2>Pages</h2>
+<div class='widget-content'>
+<ul>
+<li class='selected'>
+<a href='http://annesfood.blogspot.com/'>Home</a>
+</li>
+<li>
+<a href='http://annesfood.blogspot.com/p/recipe-archive.html'>Recipe archive</a>
+</li>
+<li>
+<a href='http://annesfood.blogspot.com/p/faq.html'>FAQ</a>
+</li>
+<li>
+<a href='http://annesfood.blogspot.com/2010/07/guide-to-stockholm.html'>Stockholm guide</a>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+<div class='tabs no-items section' id='crosscol-overflow' name='Cross-Column 2'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main' name='Main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Saturday, June 25, 2022</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://lh5.googleusercontent.com/tdxVN0GzePahv2LbByg-BILI6tK73_oGmZnNsfoc8qL0UryAXkElCWC5CCEWiu-EZuI' itemprop='image_url'/>
+<meta content='8814165' itemprop='blogId'/>
+<meta content='2830239826854302011' itemprop='postId'/>
+<a name='2830239826854302011'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://annesfood.blogspot.com/2022/06/tomatillo-salsa.html'>Tomatillo salsa</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2830239826854302011' itemprop='description articleBody'>
+<div><img id="id_6547_9459_2235_d54e" src="https://lh5.googleusercontent.com/tdxVN0GzePahv2LbByg-BILI6tK73_oGmZnNsfoc8qL0UryAXkElCWC5CCEWiu-EZuI" alt="" title="" tooltip="" style="width: 353px; height: auto;"><br><br><br></div><div><br></div>Titus first had tomatillo salsa at Dos Caminos restaurant in NYC, on our trip in early 2020. (As a side note, it was in the airport on the way back that we first really heard about Covid and what it might mean&#8230;)&nbsp;<div><br></div><div>He loves it. Green, spicy, sharp and fresh. We then forgot all about it for a while, but recently he&#8217;s been asking about it and I hunted for tomatillos for a while. Clearly not grown in Sweden and pretty darn expensive, but eventually I found some. I googled various recipes but ended up doing something like this:</div><div><b><br></b></div><div><b>Tomatillo salsa</b></div><div>5 tomatillos&nbsp;</div><div>2 shallots (white onion would have been nice, the store was all out)&nbsp;</div><div>1 large garlic clove&nbsp;</div><div>1 small jalapeño, seeded&nbsp;</div><div>1 lime, juiced</div><div>Cilantro, to taste</div><div>Salt</div><div><br></div><div>Cut tomatillos, shallots, garlic and jalapeño in chunks. Cover with water and simmer for 7-8 minutes. Drain but reserve cooking liquid.&nbsp;</div><div><br></div><div>Put in a blender with cilantro and lime juice. Blend until smooth. Now, put it back into the saucepan and simmer for about 15 minutes. It will thicken so use some of the reserved liquid to get it to the consistency you&#8217;d like.&nbsp;</div><div><br></div><div>Taste for seasoning.&nbsp;</div><div><br></div><div><br></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/18224478760304481724' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/18224478760304481724' rel='author' title='author profile'>
+<span itemprop='name'>Anne</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://annesfood.blogspot.com/2022/06/tomatillo-salsa.html' itemprop='url'/>
+<a class='timestamp-link' href='http://annesfood.blogspot.com/2022/06/tomatillo-salsa.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2022-06-25T19:53:00+02:00'>19:53</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=8814165&postID=2830239826854302011' onclick=''>
+No comments:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=8814165&postID=2830239826854302011' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='http://img1.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1505823348'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8814165&postID=2830239826854302011&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=2830239826854302011&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=2830239826854302011&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=2830239826854302011&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=2830239826854302011&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=2830239826854302011&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'><span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Saturday, December 25, 2021</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEivGFBaabRBkuUp7HgztJfV21TItBfdekwvRaRz31nnD3HmjduFi6S03_oK3Hs3hJ9Dip6h3jPM503xA4-qeuhukhSBq1ymLa426ybj7dvvQK3HQ6jKGQNNhcOjvt7Iw-EbJjNQurPe0eUvF4NRfKVDttcMq-sajaX6KhcLabrb1V422YdPAj4=w320-h243' itemprop='image_url'/>
+<meta content='8814165' itemprop='blogId'/>
+<meta content='7782001815068005327' itemprop='postId'/>
+<a name='7782001815068005327'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://annesfood.blogspot.com/2021/12/langos.html'>Langos</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7782001815068005327' itemprop='description articleBody'>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEivGFBaabRBkuUp7HgztJfV21TItBfdekwvRaRz31nnD3HmjduFi6S03_oK3Hs3hJ9Dip6h3jPM503xA4-qeuhukhSBq1ymLa426ybj7dvvQK3HQ6jKGQNNhcOjvt7Iw-EbJjNQurPe0eUvF4NRfKVDttcMq-sajaX6KhcLabrb1V422YdPAj4=s4032" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3024" data-original-width="4032" height="243" src="https://blogger.googleusercontent.com/img/a/AVvXsEivGFBaabRBkuUp7HgztJfV21TItBfdekwvRaRz31nnD3HmjduFi6S03_oK3Hs3hJ9Dip6h3jPM503xA4-qeuhukhSBq1ymLa426ybj7dvvQK3HQ6jKGQNNhcOjvt7Iw-EbJjNQurPe0eUvF4NRfKVDttcMq-sajaX6KhcLabrb1V422YdPAj4=w320-h243" width="320" /></a></div><br /><p><br /></p><p>&nbsp;Have we ever talked about Langos? Originally an Hungarian dish, but made very much every-man's-festival-favorite during the 90's in Sweden. I never tried them back then, mostly because the traditional way of serving them was with roe - not my fave. However, my pal Dagmar made them for me, and her topping was far superior: creamy fatty smetana (to make all the other things stick), crispy fried bacon, sharp chopped red onion and strong umami-rich Västerbotten Cheese. Oh, and you begin by rubbing the newly fried bread with a slice of garlic.&nbsp;</p><p>We often requested it when she made us dinner. It was lovely. And then she moved away. And for a while, langos became a yearly tradition when we finally saw each other. But during covid-times, it's just been so long. I had to try making it myself.&nbsp;</p><p>My first go - which was last New Year's Eve - was not that great. I had mostly great big fried bubbles. Good, but pretty inconvenient to eat. This time, the dough was less puffy and much better, so I thought I'd write down the recipe.&nbsp;</p><p>This makes enough for.. well, four adults and some kids. We're just two adults and two kids and we have way too much. Don't fry more than you'll eat, they're better just after they're made. Add whatever toppings you like.&nbsp;</p><p>And well, if you happen to have room... they're pretty delicious served with Nutella, whipped cream and fresh berries as well.&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgLS68RyNdZU1T0RpqblX6sT6-BW0VGQI8027sGAuSxoDhO0BarF9pK8AbjczEuR0ah1q9j38U4sV88cNQLV5kq-S5XnQYmMYweRuqkIuwHGzYMp439bbo_STR8IwPvwc_vysZfrnlQlT8Gx_7XVzosk2Z_qrjrpyeUfOcjTPc4VtWaCowTRNA=s4032" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3024" data-original-width="4032" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEgLS68RyNdZU1T0RpqblX6sT6-BW0VGQI8027sGAuSxoDhO0BarF9pK8AbjczEuR0ah1q9j38U4sV88cNQLV5kq-S5XnQYmMYweRuqkIuwHGzYMp439bbo_STR8IwPvwc_vysZfrnlQlT8Gx_7XVzosk2Z_qrjrpyeUfOcjTPc4VtWaCowTRNA=s320" width="320" /></a></div><br /><p><br /></p><p><b>Langos</b><br />about 16 small&nbsp;</p><p>25 g fresh yeast<br />300 ml tepid water<br />1 large (or 2-3 small) boiled potatoes, coarsely grated<br />pinch of salt<br />700 ml flour (about 420 g)<br />oil to fry<br /><br />Crumble the yeast into a bowl. Add the water and swirl until the yeast is dissolved. Add salt, potato, and the flour. Work into a smooth and supple dough - I used a Kitchen-Aid and let it run on the lowest setting for a little less than ten minutes. Leave to rise for about an hour (I watched Gremlins in the mean time so.. a little more than an hour.)&nbsp;</p><p>On a well floured surface, divide the dough into equal-ish portions, and with a small roller, shape into thin ovals, about the size of your hand. (or a little longer).&nbsp;</p><p>Heat the oil, and when it's warm enough - about 180, 190&#176;C. Add one or two langos at a time and fry for about a minute on each side. Place on paper towels to drain some of the excess oil, then eat at once.&nbsp;</p><p><br /></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/18224478760304481724' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/18224478760304481724' rel='author' title='author profile'>
+<span itemprop='name'>Anne</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://annesfood.blogspot.com/2021/12/langos.html' itemprop='url'/>
+<a class='timestamp-link' href='http://annesfood.blogspot.com/2021/12/langos.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2021-12-25T18:54:00+01:00'>18:54</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=8814165&postID=7782001815068005327' onclick=''>
+No comments:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=8814165&postID=7782001815068005327' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='http://img1.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1505823348'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8814165&postID=7782001815068005327&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=7782001815068005327&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=7782001815068005327&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=7782001815068005327&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=7782001815068005327&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=7782001815068005327&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'><span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, September 27, 2021</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://lh5.googleusercontent.com/xgt0cfudjYuRa5RZpS1xH-ffYQrYLf71hftVAZ5zQVSBzqECA0sfHN9raaCsuSq7_P8' itemprop='image_url'/>
+<meta content='8814165' itemprop='blogId'/>
+<meta content='1907976984129344102' itemprop='postId'/>
+<a name='1907976984129344102'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://annesfood.blogspot.com/2021/09/shrimp-nachos.html'>Shrimp Nachos</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1907976984129344102' itemprop='description articleBody'>
+<div><img id="id_434a_be85_5e3a_2696" src="https://lh5.googleusercontent.com/xgt0cfudjYuRa5RZpS1xH-ffYQrYLf71hftVAZ5zQVSBzqECA0sfHN9raaCsuSq7_P8" alt="" title="" tooltip="" style="width: 353px; height: auto;"><br><br><br></div><div><br></div>Every Friday is Taco-Friday in Sweden. I know, weird, &nbsp;right? (Read more about that crazy phenomenon in this interview&nbsp;I gave many years ago,&nbsp;<a href="https://www.latimes.com/archives/la-xpm-2006-sep-24-oe-rodriguez24-story.html" id="id_9b4_81b_1674_341a">here!</a>)<div><br></div><div>Well, we don&#8217;t eat tacos, or versions thereof, EVERY week but it&#8217;s a regular occurrence for sure. And I&#8217;m always interested to hear about new fun ideas. My husband found a photo of pretty unorthodox shrimp tacos on Instagram, and I decided to make a version at home.&nbsp;</div><div><br></div><div>This is the kind of recipe that&#8217;s not really a recipe, just an assembling instruction. Here is what we used:&nbsp;</div><div><br></div><div>-nachos</div><div>-cooked shrimp&nbsp;</div><div>-finely chopped red onion</div><div>-smetana (or creme fraiche)</div><div>-lemon zest</div><div>-avocado</div><div>-salad (we used mache salad)</div><div>-red fish roe&nbsp;</div><div>-browned butter (do NOT skip this, it totally made the dish!)&nbsp;</div><div><br></div><div>I like to just put everything out in bowls and let everyone make their own plate. Fun and delicious!&nbsp;</div><div><br></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/18224478760304481724' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/18224478760304481724' rel='author' title='author profile'>
+<span itemprop='name'>Anne</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://annesfood.blogspot.com/2021/09/shrimp-nachos.html' itemprop='url'/>
+<a class='timestamp-link' href='http://annesfood.blogspot.com/2021/09/shrimp-nachos.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2021-09-27T11:03:00+02:00'>11:03</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=8814165&postID=1907976984129344102' onclick=''>
+No comments:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=8814165&postID=1907976984129344102' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='http://img1.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1505823348'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8814165&postID=1907976984129344102&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=1907976984129344102&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=1907976984129344102&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=1907976984129344102&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=1907976984129344102&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=1907976984129344102&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'><span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Sunday, September 12, 2021</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://lh4.googleusercontent.com/t9sg-t2Oirm1mKs2ecoIozBcv-PMtjoPlBMRhhmirkCGTdap8ryO-zQzlKaawJRTos8' itemprop='image_url'/>
+<meta content='8814165' itemprop='blogId'/>
+<meta content='1344750004900958885' itemprop='postId'/>
+<a name='1344750004900958885'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://annesfood.blogspot.com/2021/09/nespresso-love-story.html'>Nespresso - a love story</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1344750004900958885' itemprop='description articleBody'>
+<img id="id_3e36_d1b8_579e_cc51" src="https://lh4.googleusercontent.com/t9sg-t2Oirm1mKs2ecoIozBcv-PMtjoPlBMRhhmirkCGTdap8ryO-zQzlKaawJRTos8" alt="" title="" tooltip="" style="width: 353px; height: auto;"><br><br>I just got the urge to show you our Nespresso setup. (And no, this is in no way a sponsored post - I just happen to really love it.)<div><br></div><div>This is a really important part of our kitchen and daily routine. I start most mornings with a cup of coffee, and if I&#8217;m alone I always opt for the Nespresso Vertuo. We have a Moccamaster too but that&#8217;s really only worth it if I&#8217;m making coffee for more people. My husband usually has breakfast at work, so unless he&#8217;s working from home, it&#8217;s just me.&nbsp;<div><br></div><div>And speaking of working from home, Nespresso is perfect for the after-lunch coffee as well. My favorite for that is a flat white - a double espresso with foamed milk. In the mornings, I usually make a bigger mug. This is what I love about the Vertuo vs. the classic machine - bigger capsules make bigger cups of coffee.&nbsp;</div></div><div><br></div><div>Our foamer is an Aeroccino 4. It&#8217;s really nice way to use, and while I like it I&#8217;m contemplating getting the very cool&nbsp;<a href="https://www.nespresso.com/se/se/order/machines/original/barista-mjolkskummare" id="id_cee7_509f_e7c1_eab1">Barista foamer</a>&nbsp;instead. Has anyone tried it? It&#8217;s programmable for a variety of drinks and I can really see that it would be handy!&nbsp;</div><div><br></div><div>Our capsules box is from Amazon and it truly makes me happy. It holds up to 50 capsules and takes virtually no extra space on the (already overcrowded) counter. Definitely a good buy! As for what capsules to get&#8230; it&#8217;s really up to you. With the classic line we always got the strongest ones, but I find that&#8217;s not at all the same with the Vertuo. I usually opt for the ones that say 6-8, and I always have milk with my coffee.&nbsp;</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/18224478760304481724' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/18224478760304481724' rel='author' title='author profile'>
+<span itemprop='name'>Anne</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://annesfood.blogspot.com/2021/09/nespresso-love-story.html' itemprop='url'/>
+<a class='timestamp-link' href='http://annesfood.blogspot.com/2021/09/nespresso-love-story.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2021-09-12T14:33:00+02:00'>14:33</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=8814165&postID=1344750004900958885' onclick=''>
+No comments:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=8814165&postID=1344750004900958885' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='http://img1.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1505823348'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8814165&postID=1344750004900958885&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=1344750004900958885&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=1344750004900958885&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=1344750004900958885&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=1344750004900958885&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=1344750004900958885&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'><span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Friday, May 21, 2021</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://lh5.googleusercontent.com/UpCYkXp-9WbkK4Mfm9h9Vz_fOU7TA_h5jTX-Hmgl4cZ96akLmMoKRrRudallqFNzUmc' itemprop='image_url'/>
+<meta content='8814165' itemprop='blogId'/>
+<meta content='4292905815666438647' itemprop='postId'/>
+<a name='4292905815666438647'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://annesfood.blogspot.com/2021/05/lemon-brownies-gluten-free.html'>Lemon Brownies, gluten-free</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4292905815666438647' itemprop='description articleBody'>
+<div><img alt="" id="id_1f30_ab27_be6f_bb3e" src="https://lh5.googleusercontent.com/UpCYkXp-9WbkK4Mfm9h9Vz_fOU7TA_h5jTX-Hmgl4cZ96akLmMoKRrRudallqFNzUmc" style="height: auto; width: 353px;" title="" tooltip="" /><br /><br /><b><br /></b></div><b><div><b><br /></b></div>Lemon Brownies</b><div>Makes 12</div><div><br /></div><div>150 g butter<div>2 eggs + an extra egg yolk</div><div>2 lemons, zest and about 50 ml of juice</div><div>200 ml sugar</div><div>150 ml gluten-free flour mix (I used Semper Finmix)</div><div>2 tsp vanilla sugar</div><div>Pinch of salt&nbsp;</div><div>100 g white chocolate, coarsely chopped&nbsp;</div><div>powdered sugar</div><div><br /></div><div>Prepare a 20*20 cm square tin by lining it with baking paper. Heat the oven to 175C&nbsp;</div><div><br /></div><div>Melt the butter.&nbsp;</div><div><br /></div><div>Whisk the eggs, they don&#8217;t need to be airy, just well-blended.&nbsp;</div><div><br /></div><div>Add the lemon zest and juice to the butter, along with sugar, vanilla sugar, salt and the gluten-free mix. Add the eggs and stir well. Finally add the chocolate.&nbsp;</div><div><br /></div><div>Pour the batter into the prepared tin and bake for about 15 minutes. It should be firm around the edges but can be a little bit wobbly in the middle.&nbsp;</div><div><br /></div><div>Let it cool completely before cutting, ideally overnight. Sprinkle with some powdered sugar before serving.&nbsp;</div><div><br /></div></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/18224478760304481724' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/18224478760304481724' rel='author' title='author profile'>
+<span itemprop='name'>Anne</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://annesfood.blogspot.com/2021/05/lemon-brownies-gluten-free.html' itemprop='url'/>
+<a class='timestamp-link' href='http://annesfood.blogspot.com/2021/05/lemon-brownies-gluten-free.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2021-05-21T09:41:00+02:00'>09:41</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=8814165&postID=4292905815666438647' onclick=''>
+No comments:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=8814165&postID=4292905815666438647' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='http://img1.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1505823348'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8814165&postID=4292905815666438647&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=4292905815666438647&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=4292905815666438647&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=4292905815666438647&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=4292905815666438647&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8814165&postID=4292905815666438647&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Labels:
+<a href='http://annesfood.blogspot.com/search/label/baking' rel='tag'>baking</a>,
+<a href='http://annesfood.blogspot.com/search/label/brownies' rel='tag'>brownies</a>,
+<a href='http://annesfood.blogspot.com/search/label/gluten-free' rel='tag'>gluten-free</a>,
+<a href='http://annesfood.blogspot.com/search/label/lemon' rel='tag'>lemon</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'><span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://annesfood.blogspot.com/search?updated-max=2021-05-21T09:41:00%2B02:00&amp;max-results=5' id='Blog1_blog-pager-older-link' title='Older Posts'>Older Posts</a>
+</span>
+<a class='home-link' href='http://annesfood.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://annesfood.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Posts (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-left-1'><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>About Me</h2>
+<div class='widget-content'>
+<a href='https://www.blogger.com/profile/18224478760304481724'><img alt='My photo' class='profile-img' height='80' src='//2.bp.blogspot.com/_axIuI0AiRkg/ShmYF5APyaI/AAAAAAAAAJM/2yu0j46mICk/S220-s80/anne-080530-2+(Medium).jpg' width='53'/></a>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='https://www.blogger.com/profile/18224478760304481724' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+Anne
+</a>
+</dt>
+<dd class='profile-textblock'>I just love food. I love reading about food, writing about food, cooking food and.. not surprisingly, eating food. I live in Stockholm, Sweden, with my husband, our two boys, and our cats.</dd>
+</dl>
+<a class='profile-link' href='https://www.blogger.com/profile/18224478760304481724' rel='author'>View my complete profile</a>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML4'>
+<h2 class='title'>Social Media</h2>
+<div class='widget-content'>
+<a href="http://www.twitter.com/annesfood"><img src="http://farm6.staticflickr.com/5510/10385647115_78a375c412_o.png" width="45" height="45" alt="Twitter-Honey-Suckle" /></a>
+
+<a href="http://www.facebook.com/askoogh/"><img src="http://farm8.staticflickr.com/7328/10385666476_309d7c80f3_o.png" width="45" height="45" alt="Facebook-Honey-Suckle" /></a>
+
+<a href="http://www.flickr.com/photos/annehufflepuffs"><img src="http://farm6.staticflickr.com/5543/10385648315_19a9712733_o.png" width="45" height="45" alt="Flickr-Honey-Suckle" /></a>
+
+<a href="http://www.pinterest.com/annesfood/" ><img src="http://farm6.staticflickr.com/5503/10385828153_0d796426d3_o.png" width="45" height="45" alt="Pinterest-Honey-Suckle" /></a>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML1'>
+<h2 class='title'>instagram</h2>
+<div class='widget-content'>
+<!-- SnapWidget -->
+<iframe src="https://snapwidget.com/embed/271415" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:130px; height:765px"></iframe>
+</div>
+<div class='clear'></div>
+</div></div>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget BlogSearch' data-version='1' id='BlogSearch1'>
+<h2 class='title'>Search This Blog</h2>
+<div class='widget-content'>
+<div id='BlogSearch1_form'>
+<form action='http://annesfood.blogspot.com/search' class='gsc-search-box' target='_top'>
+<table cellpadding='0' cellspacing='0' class='gsc-search-box'>
+<tbody>
+<tr>
+<td class='gsc-input'>
+<input autocomplete='off' class='gsc-input' name='q' size='10' title='search' type='text' value=''/>
+</td>
+<td class='gsc-search-button'>
+<input class='gsc-search-button' title='search' type='submit' value='Search'/>
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget ContactForm' data-version='1' id='ContactForm1'>
+<h2 class='title'>Contact Form</h2>
+<div class='contact-form-widget'>
+<div class='form'>
+<form name='contact-form'>
+<p></p>
+Name
+<br/>
+<input class='contact-form-name' id='ContactForm1_contact-form-name' name='name' size='30' type='text' value=''/>
+<p></p>
+Email
+<span style='font-weight: bolder;'>*</span>
+<br/>
+<input class='contact-form-email' id='ContactForm1_contact-form-email' name='email' size='30' type='text' value=''/>
+<p></p>
+Message
+<span style='font-weight: bolder;'>*</span>
+<br/>
+<textarea class='contact-form-email-message' cols='25' id='ContactForm1_contact-form-email-message' name='email-message' rows='5'></textarea>
+<p></p>
+<input class='contact-form-button contact-form-button-submit' id='ContactForm1_contact-form-submit' type='button' value='Send'/>
+<p></p>
+<div style='text-align: center; max-width: 222px; width: 100%'>
+<p class='contact-form-error-message' id='ContactForm1_contact-form-error-message'></p>
+<p class='contact-form-success-message' id='ContactForm1_contact-form-success-message'></p>
+</div>
+</form>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<select id='BlogArchive1_ArchiveMenu'>
+<option value=''>Blog Archive</option>
+<option value='http://annesfood.blogspot.com/2022/06/'>June (1)</option>
+<option value='http://annesfood.blogspot.com/2021/12/'>December (1)</option>
+<option value='http://annesfood.blogspot.com/2021/09/'>September (2)</option>
+<option value='http://annesfood.blogspot.com/2021/05/'>May (1)</option>
+<option value='http://annesfood.blogspot.com/2021/04/'>April (1)</option>
+<option value='http://annesfood.blogspot.com/2020/08/'>August (1)</option>
+<option value='http://annesfood.blogspot.com/2020/03/'>March (2)</option>
+<option value='http://annesfood.blogspot.com/2019/10/'>October (3)</option>
+<option value='http://annesfood.blogspot.com/2019/08/'>August (1)</option>
+<option value='http://annesfood.blogspot.com/2019/06/'>June (2)</option>
+<option value='http://annesfood.blogspot.com/2019/04/'>April (1)</option>
+<option value='http://annesfood.blogspot.com/2019/03/'>March (1)</option>
+<option value='http://annesfood.blogspot.com/2019/02/'>February (6)</option>
+<option value='http://annesfood.blogspot.com/2018/11/'>November (1)</option>
+<option value='http://annesfood.blogspot.com/2018/09/'>September (1)</option>
+<option value='http://annesfood.blogspot.com/2018/06/'>June (1)</option>
+<option value='http://annesfood.blogspot.com/2018/05/'>May (1)</option>
+<option value='http://annesfood.blogspot.com/2018/04/'>April (1)</option>
+<option value='http://annesfood.blogspot.com/2018/03/'>March (2)</option>
+<option value='http://annesfood.blogspot.com/2018/02/'>February (1)</option>
+<option value='http://annesfood.blogspot.com/2018/01/'>January (4)</option>
+<option value='http://annesfood.blogspot.com/2017/12/'>December (3)</option>
+<option value='http://annesfood.blogspot.com/2017/07/'>July (1)</option>
+<option value='http://annesfood.blogspot.com/2017/01/'>January (5)</option>
+<option value='http://annesfood.blogspot.com/2016/12/'>December (3)</option>
+<option value='http://annesfood.blogspot.com/2016/11/'>November (1)</option>
+<option value='http://annesfood.blogspot.com/2016/10/'>October (2)</option>
+<option value='http://annesfood.blogspot.com/2016/09/'>September (2)</option>
+<option value='http://annesfood.blogspot.com/2016/08/'>August (1)</option>
+<option value='http://annesfood.blogspot.com/2016/07/'>July (2)</option>
+<option value='http://annesfood.blogspot.com/2016/06/'>June (3)</option>
+<option value='http://annesfood.blogspot.com/2016/05/'>May (4)</option>
+<option value='http://annesfood.blogspot.com/2016/04/'>April (5)</option>
+<option value='http://annesfood.blogspot.com/2016/03/'>March (2)</option>
+<option value='http://annesfood.blogspot.com/2016/02/'>February (1)</option>
+<option value='http://annesfood.blogspot.com/2016/01/'>January (4)</option>
+<option value='http://annesfood.blogspot.com/2015/12/'>December (8)</option>
+<option value='http://annesfood.blogspot.com/2015/11/'>November (3)</option>
+<option value='http://annesfood.blogspot.com/2015/10/'>October (3)</option>
+<option value='http://annesfood.blogspot.com/2015/09/'>September (5)</option>
+<option value='http://annesfood.blogspot.com/2015/08/'>August (1)</option>
+<option value='http://annesfood.blogspot.com/2015/07/'>July (7)</option>
+<option value='http://annesfood.blogspot.com/2015/06/'>June (5)</option>
+<option value='http://annesfood.blogspot.com/2015/05/'>May (6)</option>
+<option value='http://annesfood.blogspot.com/2015/04/'>April (6)</option>
+<option value='http://annesfood.blogspot.com/2015/03/'>March (4)</option>
+<option value='http://annesfood.blogspot.com/2015/02/'>February (6)</option>
+<option value='http://annesfood.blogspot.com/2015/01/'>January (5)</option>
+<option value='http://annesfood.blogspot.com/2014/12/'>December (4)</option>
+<option value='http://annesfood.blogspot.com/2014/11/'>November (6)</option>
+<option value='http://annesfood.blogspot.com/2014/10/'>October (5)</option>
+<option value='http://annesfood.blogspot.com/2014/09/'>September (3)</option>
+<option value='http://annesfood.blogspot.com/2014/08/'>August (11)</option>
+<option value='http://annesfood.blogspot.com/2014/07/'>July (14)</option>
+<option value='http://annesfood.blogspot.com/2014/06/'>June (15)</option>
+<option value='http://annesfood.blogspot.com/2014/05/'>May (11)</option>
+<option value='http://annesfood.blogspot.com/2014/04/'>April (7)</option>
+<option value='http://annesfood.blogspot.com/2014/03/'>March (10)</option>
+<option value='http://annesfood.blogspot.com/2014/02/'>February (7)</option>
+<option value='http://annesfood.blogspot.com/2014/01/'>January (10)</option>
+<option value='http://annesfood.blogspot.com/2013/12/'>December (16)</option>
+<option value='http://annesfood.blogspot.com/2013/11/'>November (8)</option>
+<option value='http://annesfood.blogspot.com/2013/10/'>October (11)</option>
+<option value='http://annesfood.blogspot.com/2013/09/'>September (10)</option>
+<option value='http://annesfood.blogspot.com/2013/08/'>August (8)</option>
+<option value='http://annesfood.blogspot.com/2013/07/'>July (9)</option>
+<option value='http://annesfood.blogspot.com/2013/06/'>June (7)</option>
+<option value='http://annesfood.blogspot.com/2013/05/'>May (11)</option>
+<option value='http://annesfood.blogspot.com/2013/04/'>April (13)</option>
+<option value='http://annesfood.blogspot.com/2013/03/'>March (12)</option>
+<option value='http://annesfood.blogspot.com/2013/02/'>February (15)</option>
+<option value='http://annesfood.blogspot.com/2013/01/'>January (17)</option>
+<option value='http://annesfood.blogspot.com/2012/12/'>December (18)</option>
+<option value='http://annesfood.blogspot.com/2012/11/'>November (9)</option>
+<option value='http://annesfood.blogspot.com/2012/10/'>October (13)</option>
+<option value='http://annesfood.blogspot.com/2012/09/'>September (13)</option>
+<option value='http://annesfood.blogspot.com/2012/08/'>August (12)</option>
+<option value='http://annesfood.blogspot.com/2012/07/'>July (13)</option>
+<option value='http://annesfood.blogspot.com/2012/06/'>June (13)</option>
+<option value='http://annesfood.blogspot.com/2012/05/'>May (14)</option>
+<option value='http://annesfood.blogspot.com/2012/04/'>April (15)</option>
+<option value='http://annesfood.blogspot.com/2012/03/'>March (13)</option>
+<option value='http://annesfood.blogspot.com/2012/02/'>February (16)</option>
+<option value='http://annesfood.blogspot.com/2012/01/'>January (18)</option>
+<option value='http://annesfood.blogspot.com/2011/12/'>December (30)</option>
+<option value='http://annesfood.blogspot.com/2011/11/'>November (23)</option>
+<option value='http://annesfood.blogspot.com/2011/10/'>October (20)</option>
+<option value='http://annesfood.blogspot.com/2011/09/'>September (22)</option>
+<option value='http://annesfood.blogspot.com/2011/08/'>August (24)</option>
+<option value='http://annesfood.blogspot.com/2011/07/'>July (23)</option>
+<option value='http://annesfood.blogspot.com/2011/06/'>June (27)</option>
+<option value='http://annesfood.blogspot.com/2011/05/'>May (27)</option>
+<option value='http://annesfood.blogspot.com/2011/04/'>April (27)</option>
+<option value='http://annesfood.blogspot.com/2011/03/'>March (26)</option>
+<option value='http://annesfood.blogspot.com/2011/02/'>February (22)</option>
+<option value='http://annesfood.blogspot.com/2011/01/'>January (28)</option>
+<option value='http://annesfood.blogspot.com/2010/12/'>December (27)</option>
+<option value='http://annesfood.blogspot.com/2010/11/'>November (25)</option>
+<option value='http://annesfood.blogspot.com/2010/10/'>October (25)</option>
+<option value='http://annesfood.blogspot.com/2010/09/'>September (24)</option>
+<option value='http://annesfood.blogspot.com/2010/08/'>August (22)</option>
+<option value='http://annesfood.blogspot.com/2010/07/'>July (25)</option>
+<option value='http://annesfood.blogspot.com/2010/06/'>June (25)</option>
+<option value='http://annesfood.blogspot.com/2010/05/'>May (30)</option>
+<option value='http://annesfood.blogspot.com/2010/04/'>April (27)</option>
+<option value='http://annesfood.blogspot.com/2010/03/'>March (28)</option>
+<option value='http://annesfood.blogspot.com/2010/02/'>February (26)</option>
+<option value='http://annesfood.blogspot.com/2010/01/'>January (26)</option>
+<option value='http://annesfood.blogspot.com/2009/12/'>December (27)</option>
+<option value='http://annesfood.blogspot.com/2009/11/'>November (24)</option>
+<option value='http://annesfood.blogspot.com/2009/10/'>October (27)</option>
+<option value='http://annesfood.blogspot.com/2009/09/'>September (25)</option>
+<option value='http://annesfood.blogspot.com/2009/08/'>August (24)</option>
+<option value='http://annesfood.blogspot.com/2009/07/'>July (26)</option>
+<option value='http://annesfood.blogspot.com/2009/06/'>June (22)</option>
+<option value='http://annesfood.blogspot.com/2009/05/'>May (23)</option>
+<option value='http://annesfood.blogspot.com/2009/04/'>April (24)</option>
+<option value='http://annesfood.blogspot.com/2009/03/'>March (29)</option>
+<option value='http://annesfood.blogspot.com/2009/02/'>February (25)</option>
+<option value='http://annesfood.blogspot.com/2009/01/'>January (26)</option>
+<option value='http://annesfood.blogspot.com/2008/12/'>December (29)</option>
+<option value='http://annesfood.blogspot.com/2008/11/'>November (34)</option>
+<option value='http://annesfood.blogspot.com/2008/10/'>October (31)</option>
+<option value='http://annesfood.blogspot.com/2008/09/'>September (35)</option>
+<option value='http://annesfood.blogspot.com/2008/08/'>August (33)</option>
+<option value='http://annesfood.blogspot.com/2008/07/'>July (40)</option>
+<option value='http://annesfood.blogspot.com/2008/06/'>June (32)</option>
+<option value='http://annesfood.blogspot.com/2008/05/'>May (30)</option>
+<option value='http://annesfood.blogspot.com/2008/04/'>April (32)</option>
+<option value='http://annesfood.blogspot.com/2008/03/'>March (31)</option>
+<option value='http://annesfood.blogspot.com/2008/02/'>February (30)</option>
+<option value='http://annesfood.blogspot.com/2008/01/'>January (30)</option>
+<option value='http://annesfood.blogspot.com/2007/12/'>December (33)</option>
+<option value='http://annesfood.blogspot.com/2007/11/'>November (31)</option>
+<option value='http://annesfood.blogspot.com/2007/10/'>October (33)</option>
+<option value='http://annesfood.blogspot.com/2007/09/'>September (30)</option>
+<option value='http://annesfood.blogspot.com/2007/08/'>August (35)</option>
+<option value='http://annesfood.blogspot.com/2007/07/'>July (33)</option>
+<option value='http://annesfood.blogspot.com/2007/06/'>June (32)</option>
+<option value='http://annesfood.blogspot.com/2007/05/'>May (31)</option>
+<option value='http://annesfood.blogspot.com/2007/04/'>April (30)</option>
+<option value='http://annesfood.blogspot.com/2007/03/'>March (32)</option>
+<option value='http://annesfood.blogspot.com/2007/02/'>February (30)</option>
+<option value='http://annesfood.blogspot.com/2007/01/'>January (32)</option>
+<option value='http://annesfood.blogspot.com/2006/12/'>December (34)</option>
+<option value='http://annesfood.blogspot.com/2006/11/'>November (31)</option>
+<option value='http://annesfood.blogspot.com/2006/10/'>October (30)</option>
+<option value='http://annesfood.blogspot.com/2006/09/'>September (32)</option>
+<option value='http://annesfood.blogspot.com/2006/08/'>August (31)</option>
+<option value='http://annesfood.blogspot.com/2006/07/'>July (34)</option>
+<option value='http://annesfood.blogspot.com/2006/06/'>June (28)</option>
+<option value='http://annesfood.blogspot.com/2006/05/'>May (27)</option>
+<option value='http://annesfood.blogspot.com/2006/04/'>April (33)</option>
+<option value='http://annesfood.blogspot.com/2006/03/'>March (28)</option>
+<option value='http://annesfood.blogspot.com/2006/02/'>February (37)</option>
+<option value='http://annesfood.blogspot.com/2006/01/'>January (41)</option>
+<option value='http://annesfood.blogspot.com/2005/12/'>December (42)</option>
+<option value='http://annesfood.blogspot.com/2005/11/'>November (34)</option>
+<option value='http://annesfood.blogspot.com/2005/10/'>October (40)</option>
+<option value='http://annesfood.blogspot.com/2005/09/'>September (35)</option>
+<option value='http://annesfood.blogspot.com/2005/08/'>August (37)</option>
+<option value='http://annesfood.blogspot.com/2005/07/'>July (20)</option>
+<option value='http://annesfood.blogspot.com/2005/06/'>June (24)</option>
+<option value='http://annesfood.blogspot.com/2005/05/'>May (15)</option>
+<option value='http://annesfood.blogspot.com/2005/04/'>April (17)</option>
+<option value='http://annesfood.blogspot.com/2005/03/'>March (19)</option>
+<option value='http://annesfood.blogspot.com/2005/02/'>February (18)</option>
+<option value='http://annesfood.blogspot.com/2005/01/'>January (16)</option>
+<option value='http://annesfood.blogspot.com/2004/12/'>December (15)</option>
+<option value='http://annesfood.blogspot.com/2004/11/'>November (14)</option>
+<option value='http://annesfood.blogspot.com/2004/10/'>October (7)</option>
+</select>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' data-version='1' id='LinkList1'>
+<h2>Friends</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://www.e-babis.se'>Elskade Babis - butik med giftfritt för hela familjen! </a></li>
+<li><a href='http://lisamariechandler.se'>Lisa-Marie Chandler - my favorite photographer</a></li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot no-items section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot section' id='footer-2-1'><div class='widget HTML' data-version='1' id='HTML3'>
+<h2 class='title'>Statcounter</h2>
+<div class='widget-content'>
+<p><!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=837745; 
+var sc_partition=6; 
+var sc_security="20188634"; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img src="http://c7.statcounter.com/counter.php?sc_project=837745&amp;java=0&amp;security=20188634" alt="unique visitors counter" border="0" /></a> </noscript>
+<!-- End of StatCounter Code --></p>
+</div>
+<div class='clear'></div>
+</div></div>
+</td>
+<td class='columns-cell'>
+<div class='foot no-items section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3' name='Footer'><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Awesome Inc. theme. Theme images by <a href='http://www.istockphoto.com/googleimages.php?id=9505737&platform=blogger&langregion=en' target='_blank'>Ollustrator</a>. Powered by <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3104413102-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY6MQgpt_KDpbA5z4QFDh-2ejetuKA:1688962735283';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8814165','//annesfood.blogspot.com/','8814165');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '8814165', 'title': 'Anne\x27s Food', 'url': 'http://annesfood.blogspot.com/', 'canonicalUrl': 'http://annesfood.blogspot.com/', 'homepageUrl': 'http://annesfood.blogspot.com/', 'searchUrl': 'http://annesfood.blogspot.com/search', 'canonicalHomepageUrl': 'http://annesfood.blogspot.com/', 'blogspotFaviconUrl': 'http://annesfood.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': 'UA-2317265-1', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Anne\x26#39;s Food - Atom\x22 href\x3d\x22http://annesfood.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Anne\x26#39;s Food - RSS\x22 href\x3d\x22http://annesfood.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Anne\x26#39;s Food - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/8814165/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/18224478760304481724\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/b568a5ec6ef98436', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'blitzPostInterstitial': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Anne\x27s Food'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'Awesome Inc.', 'localizedName': 'Awesome Inc.', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'light', 'variantId': 'light'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Anne\x27s Food', 'description': 'Cooking from my Swedish kitchen', 'url': 'http://annesfood.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'crosscol', document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'isCurrentPage': true, 'href': 'http://annesfood.blogspot.com/', 'title': 'Home'}, {'isCurrentPage': false, 'href': 'http://annesfood.blogspot.com/p/recipe-archive.html', 'id': '3417538471573046268', 'title': 'Recipe archive'}, {'isCurrentPage': false, 'href': 'http://annesfood.blogspot.com/p/faq.html', 'id': '4552265841050810390', 'title': 'FAQ'}, {'isCurrentPage': false, 'href': 'http://annesfood.blogspot.com/2010/07/guide-to-stockholm.html', 'title': 'Stockholm guide'}], 'mobile': false, 'showPlaceholder': false, 'hasCurrentPage': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2488557861-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/3268905543-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-left-1', document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar-left-1', document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar-left-1', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'sidebar-right-1', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1', 'sidebar-right-1', document.getElementById('ContactForm1'), {'contactFormMessageSendingMsg': 'Sending...', 'contactFormMessageSentMsg': 'Your message has been sent.', 'contactFormMessageNotSentMsg': 'Message could not be sent. Please try again later.', 'contactFormInvalidEmailMsg': 'A valid email address is required.', 'contactFormEmptyMessageMsg': 'Message field cannot be empty.', 'title': 'Contact Form', 'blogId': '8814165', 'contactFormNameMsg': 'Name', 'contactFormEmailMsg': 'Email', 'contactFormMessageMsg': 'Message', 'contactFormSendMsg': 'Send', 'contactFormToken': 'AOuZoY7LUnT7RW9n7T1jM4eSGPAOMdLsIA:1688962735296', 'submitUrl': 'https://www.blogger.com/contact-form.do'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar-right-1', document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'footer-2-1', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>
